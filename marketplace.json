@@ -1,0 +1,18 @@
+{
+  "name": "photo-curator",
+  "owner": {
+    "name": "Varun Munigala",
+    "url": "https://github.com/mvarun913-bit"
+  },
+  "metadata": {
+    "description": "A fast, zero-token photo culling skill for travel photographers.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "photo-curator",
+      "source": "./",
+      "description": "Triage a folder of trip photos into instagram / keep / review / delete buckets using fast technical checks (sharpness, exposure, resolution, aspect ratio, duplicates). No AI vision cost. Dry-run by default; never deletes."
+    }
+  ]
+}

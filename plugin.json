@@ -1,0 +1,12 @@
+{
+  "name": "photo-curator",
+  "version": "1.0.0",
+  "description": "Triage a folder of trip photos into instagram / keep / review / delete buckets using fast technical checks (sharpness, exposure, resolution, aspect ratio, duplicates). No AI vision cost. Dry-run by default; never deletes.",
+  "author": {
+    "name": "Varun Munigala",
+    "url": "https://github.com/mvarun913-bit"
+  },
+  "homepage": "https://github.com/mvarun913-bit/photo-curator",
+  "license": "MIT",
+  "keywords": ["photography", "travel", "instagram", "curation", "culling", "skill"]
+}
